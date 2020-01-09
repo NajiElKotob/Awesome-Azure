@@ -1,2 +1,3 @@
-# Awesome-Azure
-Awesome Azure
+# Awesome Azure
+Stay tuned!
+
