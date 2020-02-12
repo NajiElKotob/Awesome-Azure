@@ -1,3 +1,3 @@
 # Awesome Azure
-Stay tuned!
+{Work in Process, Stay tuned!}
 
