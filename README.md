@@ -9,4 +9,4 @@
 
 ## Learning
 * [Microsoft Learn](https://docs.microsoft.com/en-us/learn/azure/) - microsoft.com
-* [Azure Academy (YouTube)](https://www.youtube.com/channel/UC-MXgaFhsYU8PkqgKBdnusQ) - 
+* [Azure Academy (YouTube)](https://www.youtube.com/channel/UC-MXgaFhsYU8PkqgKBdnusQ)
