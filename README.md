@@ -19,6 +19,7 @@
 
 ## Azure Services
 ### DevOps
+* [Choose a process](https://docs.microsoft.com/en-us/azure/devops/boards/work-items/guidance/choose-process?view=azure-devops&tabs=basic-process) - Basic, Agile, Scrum, and CMMI
 * [Step by Step - Use Azure DevOps to Test, Build and Deploy an API (YouTube)](https://www.youtube.com/watch?v=SOtC1VLZKm4) - Les Jackson
 * [DevOpsGroup Tutorials](https://www.devopsgroup.com/insights/resources/tutorials/) - devopsgroup.com
 
