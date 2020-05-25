@@ -13,6 +13,7 @@
 ## Learning
 * [Microsoft Learn](https://docs.microsoft.com/en-us/learn/azure/) - microsoft.com
 * [Azure Academy (YouTube)](https://www.youtube.com/channel/UC-MXgaFhsYU8PkqgKBdnusQ)
+* [PluralSight (Free Videos)](https://go.microsoft.com/fwlink/?linkid=2012831) - pluralsight.com
 
 -----
 
