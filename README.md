@@ -8,6 +8,12 @@
 
 * [What are public, private, and hybrid clouds?](https://azure.microsoft.com/en-us/overview/what-are-private-public-hybrid-clouds/) "There are different ways to deploy cloud resources. Options for deployment include public, private, and hybrid cloud. All three scenarios provide similar benefits, including cost-effectiveness, performance, reliability, and scale—but which deployment method you choose depends on your business needs."
 
+### SaaS, PaaS and IaaS
+* [SaaS - Software as a Service](https://azure.microsoft.com/en-us/overview/what-is-saas/)
+* [PaaS - Platform as a Service](https://azure.microsoft.com/en-us/overview/what-is-paas/)
+* [IaaS - Software as a Service](https://azure.microsoft.com/en-us/overview/what-is-iaas/)
+
+
 -----
 
 ## Learning
