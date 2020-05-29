@@ -11,7 +11,7 @@
 ### SaaS, PaaS and IaaS
 * [SaaS - Software as a Service](https://azure.microsoft.com/en-us/overview/what-is-saas/)
 * [PaaS - Platform as a Service](https://azure.microsoft.com/en-us/overview/what-is-paas/)
-* [IaaS - Software as a Service](https://azure.microsoft.com/en-us/overview/what-is-iaas/)
+* [IaaS - Infrastructure as a Service](https://azure.microsoft.com/en-us/overview/what-is-iaas/)
 
 
 -----
