@@ -1,5 +1,5 @@
 # Awesome Azure
-{Work in Process, Stay tuned!}
+Constantly growing and constantly improving
 
 ## Basic concepts
 * [Resiliency to build with confidence](https://azure.microsoft.com/en-us/global-infrastructure/regions/) "Azure regions, geographies, and Availability Zones form the foundation of our global infrastructure—providing customers high availability, disaster recovery, and backup."
