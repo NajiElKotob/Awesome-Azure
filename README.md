@@ -24,6 +24,7 @@
 -----
 
 ## Azure Services
+Start turning your ideas into solutions with 200+ Azure products and services [Browse or search for Azure products](https://azure.microsoft.com/en-us/services/). 
 
 ### Database
 * [How to choose the correct SQL Server destination on Azure (YouTube)](https://www.youtube.com/watch?v=PjfZPNWRtHg) - Microsoft SQL Server (May 2020)
