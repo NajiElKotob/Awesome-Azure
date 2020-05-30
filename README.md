@@ -42,8 +42,15 @@ Start turning your ideas into solutions with 200+ Azure products and services [B
 `
 AI + Machine Learning | Analytics | Blockchain | Compute | Containers | Databases | Developer Tools | DevOps | Hybrid | Identity | Integration | Internet of Things | Management and Governance | VMedia | Migration | Mixed Reality | Mobile | Networking | Security | Storage | Web | Windows Virtual Desktop
 `
+
 ### Database
 * [How to choose the correct SQL Server destination on Azure (YouTube)](https://www.youtube.com/watch?v=PjfZPNWRtHg) - Microsoft SQL Server (May 2020)
+
+### AppService
+Azure Web App, available for Linux and Windows, enables developers to easily deploy and scale enterprise grade web applications written in a variety of languages and integrated with a multitude of services without ever worrying about infrastructure management.
+* [Try Azure App Service](http://aka.ms/TryAppService) - Try Azure App Service for a limited time without a subscription, free of charge and commitment.
+
+
 
 ### DevOps
 * [Choose a process](https://docs.microsoft.com/en-us/azure/devops/boards/work-items/guidance/choose-process?view=azure-devops&tabs=basic-process) - Basic, Agile, Scrum, and CMMI
