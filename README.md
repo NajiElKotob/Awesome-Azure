@@ -30,8 +30,11 @@
 -----
 
 ## Azure Services
-Start turning your ideas into solutions with 200+ Azure products and services [Browse or search for Azure products](https://azure.microsoft.com/en-us/services/). 
-
+Start turning your ideas into solutions with 200+ Azure products and services [Browse or search for Azure products](https://azure.microsoft.com/en-us/services/).
+<br />
+`
+AI + Machine Learning | Analytics | Blockchain | Compute | Containers | Databases | Developer Tools | DevOps | Hybrid | Identity | Integration | Internet of Things | Management and Governance | VMedia | Migration | Mixed Reality | Mobile | Networking | Security | Storage | Web | Windows Virtual Desktop
+`
 ### Database
 * [How to choose the correct SQL Server destination on Azure (YouTube)](https://www.youtube.com/watch?v=PjfZPNWRtHg) - Microsoft SQL Server (May 2020)
 
