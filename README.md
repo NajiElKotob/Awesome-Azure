@@ -17,7 +17,7 @@ Constantly growing and constantly improving
 ## Quick References
 * [Portal](https://portal.azure.com/) - Build, manage, and monitor all your apps in Microsoft Azure Portal. A single, unified hub built for you, your team, and your projects.
 * [Azure updates](https://azure.microsoft.com/updates/) - Learn about important Azure product updates, roadmap, and announcements. Subscribe to notifications to stay informed.
-
+* [Which Azure region is right for me?](https://azure.microsoft.com/en-us/global-infrastructure/geographies/)
 
 -----
 
