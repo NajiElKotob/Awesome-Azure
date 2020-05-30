@@ -13,6 +13,9 @@ Constantly growing and constantly improving
 * [PaaS - Platform as a Service](https://azure.microsoft.com/en-us/overview/what-is-paas/)
 * [IaaS - Infrastructure as a Service](https://azure.microsoft.com/en-us/overview/what-is-iaas/)
 
+-----
+## Quick References
+* [Portal](https://portal.azure.com/) - Build, manage, and monitor all your apps in Microsoft Azure Portal. A single, unified hub built for you, your team, and your projects.
 
 -----
 
