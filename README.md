@@ -39,6 +39,7 @@ Constantly growing and constantly improving
 * [Cloud Shell](https://azure.microsoft.com/en-us/features/cloud-shell/) - Azure Cloud Shell is an interactive, authenticated, browser-accessible shell for managing Azure resources. It provides the flexibility of choosing the shell experience that best suits the way you work, either Bash or PowerShell. 
   * [Bash in Cloud Shell quickstart](https://docs.microsoft.com/en-us/azure/cloud-shell/quickstart)
   * [PowerShell in Cloud Shell quickstart](https://docs.microsoft.com/en-us/azure/cloud-shell/quickstart-powershell)
+* [Azure Command-Line Interface (CLI)](https://docs.microsoft.com/en-us/cli/azure/?view=azure-cli-latest) - The Azure command-line interface (Azure CLI) is a set of commands used to create and manage Azure resources. 
 
 -----
 
