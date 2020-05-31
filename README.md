@@ -54,6 +54,10 @@ AI + Machine Learning | Analytics | Blockchain | Compute | Containers | Database
 ### Database
 * [How to choose the correct SQL Server destination on Azure (YouTube)](https://www.youtube.com/watch?v=PjfZPNWRtHg) - Microsoft SQL Server (May 2020)
 
+### Azure Data Lake Analytics
+* [Azure Data Lake Analytics Documentation](https://docs.microsoft.com/en-us/azure/data-lake-analytics/) - Microsoft Docs
+* [Azure Data Lake Analytics and U-SQL](https://www.infoq.com/articles/azure-data-lake-analytics-usql/) - infoq.com (Sep 2019)
+
 ### AppService
 Quickly build, deploy, and scale web apps created with popular frameworks .NET, .NET Core, Node.js, Java, PHP, Ruby, or Python, in containers or running on any operating system. Meet rigorous, enterprise-grade performance, security, and compliance requirements by using the fully managed platform for your operational and monitoring tasks.
 
