@@ -40,7 +40,8 @@ Constantly growing and constantly improving
   * [Bash in Cloud Shell quickstart](https://docs.microsoft.com/en-us/azure/cloud-shell/quickstart)
   * [PowerShell in Cloud Shell quickstart](https://docs.microsoft.com/en-us/azure/cloud-shell/quickstart-powershell)
 * [Azure Command-Line Interface (CLI)](https://docs.microsoft.com/en-us/cli/azure/?view=azure-cli-latest) - The Azure command-line interface (Azure CLI) is a set of commands used to create and manage Azure resources. 
-
+  * [Get started with Azure CLI](https://docs.microsoft.com/en-us/cli/azure/get-started-with-azure-cli?view=azure-cli-latest)
+  
 -----
 
 ## Azure Services
