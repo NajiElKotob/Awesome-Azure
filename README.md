@@ -43,7 +43,8 @@ Constantly growing and constantly improving
   * [Get started with Azure CLI](https://docs.microsoft.com/en-us/cli/azure/get-started-with-azure-cli?view=azure-cli-latest)
 * [Azure templates]
   * [Azure Resource Manager templates](https://docs.microsoft.com/en-us/azure/azure-resource-manager/templates/) - Azure Resource Manager templates are a JavaScript Object Notation (JSON) files that define the infrastructure and configuration for your project.
-
+  * [Azure Quickstart Templates](https://github.com/Azure/azure-quickstart-templates) - GitHub
+  * [Quickstart templates gallery](https://azure.microsoft.com/en-us/resources/templates/)
 
 
 -----
