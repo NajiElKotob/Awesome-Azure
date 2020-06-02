@@ -41,10 +41,11 @@ Constantly growing and constantly improving
   * [PowerShell in Cloud Shell quickstart](https://docs.microsoft.com/en-us/azure/cloud-shell/quickstart-powershell)
 * [Azure Command-Line Interface (CLI)](https://docs.microsoft.com/en-us/cli/azure/?view=azure-cli-latest) - The Azure command-line interface (Azure CLI) is a set of commands used to create and manage Azure resources. 
   * [Get started with Azure CLI](https://docs.microsoft.com/en-us/cli/azure/get-started-with-azure-cli?view=azure-cli-latest)
-* [Azure templates]
-  * [Azure Resource Manager templates](https://docs.microsoft.com/en-us/azure/azure-resource-manager/templates/) - Azure Resource Manager templates are a JavaScript Object Notation (JSON) files that define the infrastructure and configuration for your project.
+* Azure templates
+  * [Azure Resource Manager (ARM) templates](https://docs.microsoft.com/en-us/azure/azure-resource-manager/templates/) - Azure Resource Manager templates are a JavaScript Object Notation (JSON) files that define the infrastructure and configuration for your project.
   * [Azure Quickstart Templates](https://github.com/Azure/azure-quickstart-templates) - GitHub
   * [Quickstart templates gallery](https://azure.microsoft.com/en-us/resources/templates/)
+  * [ARMViz](http://armviz.io/) - ARM (Azure Resource Manager) Visualizer
 
 
 -----
