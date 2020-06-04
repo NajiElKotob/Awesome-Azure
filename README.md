@@ -36,17 +36,17 @@ Constantly growing and constantly improving
 
 ## Azure Tools
 * [Azure Data Studio](https://azure.microsoft.com/en-us/updates/azure-data-studio-is-now-available/) - A modern editor experience for managing data across multiple sources with fast intellisense, code snippets, source control integration, and an integrated terminal.
-* [Cloud Shell](https://azure.microsoft.com/en-us/features/cloud-shell/) - Azure Cloud Shell is an interactive, authenticated, browser-accessible shell for managing Azure resources. It provides the flexibility of choosing the shell experience that best suits the way you work, either Bash or PowerShell. 
-  * [Bash in Cloud Shell quickstart](https://docs.microsoft.com/en-us/azure/cloud-shell/quickstart)
-  * [PowerShell in Cloud Shell quickstart](https://docs.microsoft.com/en-us/azure/cloud-shell/quickstart-powershell)
-* [Azure Command-Line Interface (CLI)](https://docs.microsoft.com/en-us/cli/azure/?view=azure-cli-latest) - The Azure command-line interface (Azure CLI) is a set of commands used to create and manage Azure resources. 
-  * [Get started with Azure CLI](https://docs.microsoft.com/en-us/cli/azure/get-started-with-azure-cli?view=azure-cli-latest)
 * Azure templates
   * [Azure Resource Manager (ARM) templates](https://docs.microsoft.com/en-us/azure/azure-resource-manager/templates/) - Azure Resource Manager templates are a JavaScript Object Notation (JSON) files that define the infrastructure and configuration for your project.
   * [Azure Quickstart Templates](https://github.com/Azure/azure-quickstart-templates) - GitHub
   * [Quickstart templates gallery](https://azure.microsoft.com/en-us/resources/templates/)
   * [ARMViz](http://armviz.io/) - ARM (Azure Resource Manager) Visualizer
-
+* [Azure Command-Line Interface (CLI)](https://docs.microsoft.com/en-us/cli/azure/?view=azure-cli-latest) - The Azure command-line interface (Azure CLI) is a set of commands used to create and manage Azure resources. 
+  * [Get started with Azure CLI](https://docs.microsoft.com/en-us/cli/azure/get-started-with-azure-cli?view=azure-cli-latest)
+* [Cloud Shell](https://azure.microsoft.com/en-us/features/cloud-shell/) - Azure Cloud Shell is an interactive, authenticated, browser-accessible shell for managing Azure resources. It provides the flexibility of choosing the shell experience that best suits the way you work, either Bash or PowerShell. 
+  * [Bash in Cloud Shell quickstart](https://docs.microsoft.com/en-us/azure/cloud-shell/quickstart)
+  * [PowerShell in Cloud Shell quickstart](https://docs.microsoft.com/en-us/azure/cloud-shell/quickstart-powershell)
+* [REST API Browser](https://docs.microsoft.com/en-us/rest/api/?view=Azure) - Azure one-stop shop for REST APIs
 
 -----
 
