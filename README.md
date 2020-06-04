@@ -43,6 +43,7 @@ Constantly growing and constantly improving
   * [ARMViz](http://armviz.io/) - ARM (Azure Resource Manager) Visualizer
 * [Azure portal](https://docs.microsoft.com/en-us/azure/azure-portal/azure-portal-overview) - The Azure portal is a web-based, unified console that provides an alternative to command-line tools. With the Azure portal, you can manage your Azure subscription using a graphical user interface.
 * [Azure mobile app](https://azure.microsoft.com/en-us/features/azure-portal/mobile-app/) - Stay connected to your Azure resources—anytime, anywhere.
+  * [Introducing the Azure Mobile App (Video)](https://www.youtube.com/watch?v=pT5SfP8NgKM)
 * [Azure Command-Line Interface (CLI)](https://docs.microsoft.com/en-us/cli/azure/?view=azure-cli-latest) - The Azure command-line interface (Azure CLI) is a set of commands used to create and manage Azure resources. 
   * [Get started with Azure CLI](https://docs.microsoft.com/en-us/cli/azure/get-started-with-azure-cli?view=azure-cli-latest)
 * [Cloud Shell](https://azure.microsoft.com/en-us/features/cloud-shell/) - Azure Cloud Shell is an interactive, authenticated, browser-accessible shell for managing Azure resources. It provides the flexibility of choosing the shell experience that best suits the way you work, either Bash or PowerShell. 
