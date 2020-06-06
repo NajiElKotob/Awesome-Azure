@@ -57,6 +57,7 @@ Constantly growing and constantly improving
 -----
 
 ## Azure Pricing
+* [Pricing calculator](https://azure.microsoft.com/pricing/calculator/) - Configure and estimate the costs for Azure products
 * [Properly Shutdown Azure VM to Save Money](https://build5nines.com/properly-shutdown-azure-vm-to-save-money/) - Build5Nines
 
 ## Azure Services
