@@ -34,6 +34,7 @@ Constantly growing and constantly improving
 * [Microsoft Learn](https://docs.microsoft.com/en-us/learn/azure/) - microsoft.com
    * [Azure Fundamentals (AZ-900)](https://docs.microsoft.com/en-us/learn/certifications/azure-fundamentals?tab=tab-learning-paths)
 * [Azure Academy (YouTube)](https://www.youtube.com/channel/UC-MXgaFhsYU8PkqgKBdnusQ)
+* [Microsoft Azure Training Library](https://cloudacademy.com/library/azure/) - Cloud Academy
 * [PluralSight (Free Videos)](https://go.microsoft.com/fwlink/?linkid=2012831) - pluralsight.com
 
 -----
