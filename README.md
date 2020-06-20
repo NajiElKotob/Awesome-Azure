@@ -90,3 +90,6 @@ Quickly build, deploy, and scale web apps created with popular frameworks .NET, 
 * [Choose a process](https://docs.microsoft.com/en-us/azure/devops/boards/work-items/guidance/choose-process?view=azure-devops&tabs=basic-process) - Basic, Agile, Scrum, and CMMI
 * [Step by Step - Use Azure DevOps to Test, Build and Deploy an API (YouTube)](https://www.youtube.com/watch?v=SOtC1VLZKm4) - Les Jackson
 * [DevOpsGroup Tutorials](https://www.devopsgroup.com/insights/resources/tutorials/) - devopsgroup.com
+
+### Azure Maps
+* [Azure Maps](https://docs.microsoft.com/en-us/azure/azure-maps/about-azure-maps) - Azure Maps is a collection of geospatial services that use fresh mapping data to provide geographic context to web and mobile applications.
