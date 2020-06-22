@@ -93,3 +93,6 @@ Quickly build, deploy, and scale web apps created with popular frameworks .NET, 
 
 ### Azure Maps
 * [Azure Maps](https://docs.microsoft.com/en-us/azure/azure-maps/about-azure-maps) - Azure Maps is a collection of geospatial services that use fresh mapping data to provide geographic context to web and mobile applications.
+
+### Azure Logic Apps
+* [Azure Logic Apps](https://docs.microsoft.com/en-us/azure/logic-apps/logic-apps-overview) - is a cloud service that helps you schedule, automate, and orchestrate tasks, business processes, and workflows when you need to integrate apps, data, systems, and services across enterprises or organizations. Logic Apps simplifies how you design and build scalable solutions for app integration, data integration, system integration, enterprise application integration (EAI), and business-to-business (B2B) communication, whether in the cloud, on premises, or both.
