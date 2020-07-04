@@ -20,6 +20,7 @@ Constantly growing and constantly improving
 * BaaS - Backup as a Service
 * DaaS - Database as a Service
 * IDaaS - IDentity as a Service
+* XaaS  - Anything as a Service
 
 -----
 ## Quick References
