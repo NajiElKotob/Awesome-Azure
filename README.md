@@ -30,6 +30,10 @@ Constantly growing and constantly improving
 * [Azure Marketplace](https://azuremarketplace.microsoft.com) - The Marketplace is the premier destination for all your software needs - certified and optimized to run on Azure.
 
 -----
+## Special Videos
+* [Inside Azure datacenter architecture](https://www.youtube.com/watch?v=X-0V6bYfTpA) (Jan 2020, Mark Russinovich)
+
+-----
 
 ## Learning
 * [Microsoft Learn](https://docs.microsoft.com/en-us/learn/azure/) - microsoft.com
