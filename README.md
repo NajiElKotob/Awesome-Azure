@@ -81,6 +81,9 @@ AI + Machine Learning | Analytics | Blockchain | Compute | Containers | Database
 ### Database
 * [How to choose the correct SQL Server destination on Azure (YouTube)](https://www.youtube.com/watch?v=PjfZPNWRtHg) - Microsoft SQL Server (May 2020)
 
+### Azure Open Datasets
+* [Azure Open Datasets](https://azure.microsoft.com/en-us/services/open-datasets/) - Easily access curated datasets and accelerate machine learning
+
 ### Azure Data Lake Analytics
 * [Azure Data Lake Analytics Documentation](https://docs.microsoft.com/en-us/azure/data-lake-analytics/) - Microsoft Docs
 * [Azure Data Lake Analytics and U-SQL](https://www.infoq.com/articles/azure-data-lake-analytics-usql/) - infoq.com (Sep 2019)
