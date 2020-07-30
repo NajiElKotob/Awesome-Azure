@@ -31,6 +31,7 @@ Constantly growing and constantly improving
 
 -----
 ## Special Videos
+* [Machine Learning in Azure Databricks](https://www.youtube.com/watch?v=9vkpYC9qCHk) (Pragmatic Works, July 2020)
 * [Inside Azure datacenter architecture](https://www.youtube.com/watch?v=X-0V6bYfTpA) (Jan 2020, Mark Russinovich)
 
 -----
