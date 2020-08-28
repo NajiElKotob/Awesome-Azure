@@ -46,6 +46,7 @@ Constantly growing and constantly improving
 -----
 
 ## Azure Tools
+* [Query Editor](https://docs.microsoft.com/en-us/azure/azure-sql/database/connect-query-portal)
 * [Azure Data Studio](https://azure.microsoft.com/en-us/updates/azure-data-studio-is-now-available/) - A modern editor experience for managing data across multiple sources with fast intellisense, code snippets, source control integration, and an integrated terminal.
 * [Azure Storage Explorer](https://azure.microsoft.com/features/storage-explorer/) - Free tool to easily manage your Azure cloud storage resources anywhere, from Windows, macOS, or Linux
 * Command-line utility
