@@ -30,6 +30,9 @@ Constantly growing and constantly improving
 * [Azure Marketplace](https://azuremarketplace.microsoft.com) - The Marketplace is the premier destination for all your software needs - certified and optimized to run on Azure.
 * [Azure status](https://status.azure.com/en-us/status) - Updated 32 seconds ago
 
+## e-books
+* [The Developer’s Guide to Azure](https://azure.microsoft.com/en-us/campaigns/developer-guide/)
+
 -----
 ## Special Videos
 * [Machine Learning in Azure Databricks](https://www.youtube.com/watch?v=9vkpYC9qCHk) (Pragmatic Works, July 2020)
