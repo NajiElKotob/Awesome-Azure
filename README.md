@@ -32,6 +32,7 @@ Constantly growing and constantly improving
 
 ## e-books
 * [The Developer’s Guide to Azure](https://azure.microsoft.com/en-us/campaigns/developer-guide/)
+* [Learn Azure in a Month of Lunches](https://azure.microsoft.com/en-us/resources/learn-azure-in-a-month-of-lunches/)
 
 -----
 ## Special Videos
