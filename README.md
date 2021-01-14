@@ -34,6 +34,9 @@ Constantly growing and constantly improving
 * [The Developer’s Guide to Azure](https://azure.microsoft.com/en-us/campaigns/developer-guide/)
 * [Learn Azure in a Month of Lunches](https://azure.microsoft.com/en-us/resources/learn-azure-in-a-month-of-lunches/)
 
+## GitHub
+* [Awesome Azure Learning](https://github.com/ddneves/awesome-azure-learning)
+
 -----
 ## Special Videos
 * [Machine Learning in Azure Databricks](https://www.youtube.com/watch?v=9vkpYC9qCHk) (Pragmatic Works, July 2020)
