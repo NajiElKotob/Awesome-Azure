@@ -51,8 +51,10 @@ Constantly growing and constantly improving
 * [Microsoft Azure Training Library](https://cloudacademy.com/library/azure/) - Cloud Academy
 * [PluralSight (Free Videos)](https://go.microsoft.com/fwlink/?linkid=2012831) - pluralsight.com
 
-## Exam
+## Exams
+* [Azure Certifications and Exams](https://docs.microsoft.com/en-us/learn/certifications/browse/?products=azure)
 * [200 Practice Questions For Azure Data DP-900 Fundamentals Exam](https://medium.com/bb-tutorials-and-thoughts/200-practice-questions-for-azure-data-dp-900-fundamentals-exam-ea2446ee3a0)
+
 
 -----
 
