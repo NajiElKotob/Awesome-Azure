@@ -52,6 +52,8 @@ Constantly growing and constantly improving
         * [DP-300 Labs](https://github.com/MicrosoftLearning/DP-300T00-Administering-Relational-Databases-on-Azure)
       * Courses
         * [Azure SQL fundamentals](https://docs.microsoft.com/en-us/learn/paths/azure-sql-fundamentals/)
+        * [Plan and implement data platform resources](https://docs.microsoft.com/en-us/learn/paths/plan-implement-data-platform-resources/)
+        * [Implement a secure environment for a database service](https://docs.microsoft.com/en-us/learn/paths/implement-secure-environment-database-service/)
 * [Azure Academy (YouTube)](https://www.youtube.com/channel/UC-MXgaFhsYU8PkqgKBdnusQ)
 * [Microsoft Azure Training Library](https://cloudacademy.com/library/azure/) - Cloud Academy
 * [PluralSight (Free Videos)](https://go.microsoft.com/fwlink/?linkid=2012831) - pluralsight.com
