@@ -54,6 +54,10 @@ Constantly growing and constantly improving
         * [Azure SQL fundamentals](https://docs.microsoft.com/en-us/learn/paths/azure-sql-fundamentals/)
         * [Plan and implement data platform resources](https://docs.microsoft.com/en-us/learn/paths/plan-implement-data-platform-resources/)
         * [Implement a secure environment for a database service](https://docs.microsoft.com/en-us/learn/paths/implement-secure-environment-database-service/)
+        * [Monitor and optimize operational resources in SQL Server](https://docs.microsoft.com/en-us/learn/paths/monitor-optimize-operational-resources-sql-server/)
+        * [Optimize query performance in SQL Server](https://docs.microsoft.com/en-us/learn/paths/optimize-query-performance-sql-server/)
+        * [Automate tasks in SQL Server](https://docs.microsoft.com/en-us/learn/paths/automate-tasks-sql-server/)
+        * [Plan and implement a high availability and disaster recovery environment](https://docs.microsoft.com/en-us/learn/paths/plan-implement-high-availability-disaster-recovery-environment/)
 * [Azure Academy (YouTube)](https://www.youtube.com/channel/UC-MXgaFhsYU8PkqgKBdnusQ)
 * [Microsoft Azure Training Library](https://cloudacademy.com/library/azure/) - Cloud Academy
 * [PluralSight (Free Videos)](https://go.microsoft.com/fwlink/?linkid=2012831) - pluralsight.com
