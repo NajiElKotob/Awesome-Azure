@@ -48,7 +48,10 @@ Constantly growing and constantly improving
 * [Microsoft Learn](https://docs.microsoft.com/en-us/learn/azure/) - microsoft.com
    * [Azure Fundamentals (AZ-900)](https://docs.microsoft.com/en-us/learn/certifications/courses/az-900t01)
    * [Administering Relational Databases on Microsoft Azure (DP-300)](https://docs.microsoft.com/en-us/learn/certifications/courses/dp-300t00)
-      * [DP-300 Labs](https://github.com/MicrosoftLearning/DP-300T00-Administering-Relational-Databases-on-Azure)
+      * Labs
+        * [DP-300 Labs](https://github.com/MicrosoftLearning/DP-300T00-Administering-Relational-Databases-on-Azure)
+      * Courses
+        * [Azure SQL fundamentals](https://docs.microsoft.com/en-us/learn/paths/azure-sql-fundamentals/)
 * [Azure Academy (YouTube)](https://www.youtube.com/channel/UC-MXgaFhsYU8PkqgKBdnusQ)
 * [Microsoft Azure Training Library](https://cloudacademy.com/library/azure/) - Cloud Academy
 * [PluralSight (Free Videos)](https://go.microsoft.com/fwlink/?linkid=2012831) - pluralsight.com
