@@ -1,5 +1,6 @@
 # Awesome Azure
 Constantly growing and constantly improving
+`The only thing that is constant is change. -- Heraclitus`
 
 ## Basic concepts
 
