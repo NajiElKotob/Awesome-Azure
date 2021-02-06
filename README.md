@@ -63,6 +63,9 @@
 * [Microsoft Azure Training Library](https://cloudacademy.com/library/azure/) - Cloud Academy
 * [PluralSight (Free Videos)](https://go.microsoft.com/fwlink/?linkid=2012831) - pluralsight.com
 
+### Concepts
+* [What is Azure Resource Manager?](https://docs.microsoft.com/en-us/azure/azure-resource-manager/management/overview)
+
 ## Exams
 * [Understanding Microsoft Azure certifications](https://techcommunity.microsoft.com/t5/microsoft-learn-blog/understanding-microsoft-azure-certifications/ba-p/1469358?BlogId=8&Id=375305)
 * [Azure Certifications and Exams](https://docs.microsoft.com/en-us/learn/certifications/browse/?products=azure)
