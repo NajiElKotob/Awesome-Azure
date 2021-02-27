@@ -32,6 +32,7 @@
 * [Azure status](https://status.azure.com/en-us/status) - Updated 32 seconds ago
 
 ## e-books
+* [Azure for Architects](https://azure.microsoft.com/en-us/resources/azure-for-architects/) - Base your cloud solutions on strategy and architecture that meet the needs of your organization.
 * [The Developer’s Guide to Azure](https://azure.microsoft.com/en-us/campaigns/developer-guide/)
 * [Learn Azure in a Month of Lunches](https://azure.microsoft.com/en-us/resources/learn-azure-in-a-month-of-lunches/)
 
