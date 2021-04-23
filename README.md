@@ -112,6 +112,9 @@ Start turning your ideas into solutions with 200+ Azure products and services [B
 AI + Machine Learning | Analytics | Blockchain | Compute | Containers | Databases | Developer Tools | DevOps | Hybrid | Identity | Integration | Internet of Things | Management and Governance | VMedia | Migration | Mixed Reality | Mobile | Networking | Security | Storage | Web | Windows Virtual Desktop
 `
 
+### Guide 🆘
+* [Choose an Azure compute service for your application](https://docs.microsoft.com/en-us/azure/architecture/guide/technology-choices/compute-decision-tree)
+
 ### Database
 * [How to choose the correct SQL Server destination on Azure (YouTube)](https://www.youtube.com/watch?v=PjfZPNWRtHg) - Microsoft SQL Server (May 2020)
 
