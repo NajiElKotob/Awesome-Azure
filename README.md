@@ -30,6 +30,8 @@
 * [Which Azure region is right for me?](https://azure.microsoft.com/en-us/global-infrastructure/geographies/)
 * [Azure Marketplace](https://azuremarketplace.microsoft.com) - The Marketplace is the premier destination for all your software needs - certified and optimized to run on Azure.
 * [Azure status](https://status.azure.com/en-us/status) - Updated 32 seconds ago
+* [Microsoft compliance offerings](https://docs.microsoft.com/en-us/compliance/regulatory/offering-home?view=o365-worldwide)
+
 
 ## e-books
 * [Azure for Architects](https://azure.microsoft.com/en-us/resources/azure-for-architects/) - Base your cloud solutions on strategy and architecture that meet the needs of your organization.
