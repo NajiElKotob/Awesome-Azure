@@ -65,6 +65,7 @@
 * [Azure Academy (YouTube)](https://www.youtube.com/channel/UC-MXgaFhsYU8PkqgKBdnusQ)
 * [Microsoft Azure Training Library](https://cloudacademy.com/library/azure/) - Cloud Academy
 * [PluralSight (Free Videos)](https://go.microsoft.com/fwlink/?linkid=2012831) - pluralsight.com
+* [Microsoft Azure Fundamentals Certification Course (AZ-900) :tv:](https://www.youtube.com/watch?v=NKEFWyqJ5XA) - freeCodeCamp.org
 
 ### Concepts
 * [What is Azure Resource Manager?](https://docs.microsoft.com/en-us/azure/azure-resource-manager/management/overview)
