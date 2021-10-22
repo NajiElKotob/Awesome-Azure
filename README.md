@@ -18,6 +18,7 @@
 * [SaaS - Software as a Service](https://azure.microsoft.com/en-us/overview/what-is-saas/)
 * [PaaS - Platform as a Service](https://azure.microsoft.com/en-us/overview/what-is-paas/)
 * [IaaS - Infrastructure as a Service](https://azure.microsoft.com/en-us/overview/what-is-iaas/)
+* [CPaaS - Communication Platform as a Service](https://azure.microsoft.com/en-us/services/communication-services)
 * BaaS - Backup as a Service
 * DaaS - Database as a Service
 * IDaaS - IDentity as a Service
