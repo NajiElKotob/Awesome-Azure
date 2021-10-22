@@ -133,7 +133,7 @@ AI + Machine Learning | Analytics | Blockchain | Compute | Containers | Database
 Quickly build, deploy, and scale web apps created with popular frameworks .NET, .NET Core, Node.js, Java, PHP, Ruby, or Python, in containers or running on any operating system. Meet rigorous, enterprise-grade performance, security, and compliance requirements by using the fully managed platform for your operational and monitoring tasks.
 
 * [Try Azure App Service](http://aka.ms/TryAppService) - Try Azure App Service for a limited time without a subscription, free of charge and commitment.
-
+* [Static Web Apps](https://azure.microsoft.com/en-us/services/app-service/static/) - Streamlined full-stack development from source code to global high availability
 
 
 ### DevOps
