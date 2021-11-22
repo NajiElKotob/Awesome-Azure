@@ -125,6 +125,11 @@ AI + Machine Learning | Analytics | Blockchain | Compute | Containers | Database
 ### Azure Open Datasets
 * [Azure Open Datasets](https://azure.microsoft.com/en-us/services/open-datasets/) - Easily access curated datasets and accelerate machine learning
 
+### Azure Synapse Analytics
+* [Azure Synapse Analytics (Docs)](https://docs.microsoft.com/en-us/azure/synapse-analytics/)
+* [Get Started with Azure Synapse Analytics (Quickstarts)](https://docs.microsoft.com/en-us/azure/synapse-analytics/get-started)
+
+ (Docs)
 ### Azure Data Lake Analytics
 * [Azure Data Lake Analytics Documentation](https://docs.microsoft.com/en-us/azure/data-lake-analytics/) - Microsoft Docs
 * [Azure Data Lake Analytics and U-SQL](https://www.infoq.com/articles/azure-data-lake-analytics-usql/) - infoq.com (Sep 2019)
