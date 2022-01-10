@@ -103,6 +103,11 @@
   * [Azure PowerShell](https://docs.microsoft.com/en-us/powershell/azure/) - Azure PowerShell is a set of cmdlets for managing Azure resources directly from the PowerShell command line.
 * [REST API Browser](https://docs.microsoft.com/en-us/rest/api/?view=Azure) - Azure one-stop shop for REST APIs
 
+### Emulators
+* [Use the Azurite emulator for local Azure Storage development](https://docs.microsoft.com/en-us/azure/storage/common/storage-use-azurite?tabs=visual-studio)
+* [Azure Cosmos DB Emulator for local development and testing](https://docs.microsoft.com/en-us/azure/cosmos-db/local-emulator?tabs=ssl-netstd21)
+
+
 -----
 
 ## Azure Pricing
