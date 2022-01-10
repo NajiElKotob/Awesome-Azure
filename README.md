@@ -71,6 +71,8 @@
 
 ### Concepts
 * [What is Azure Resource Manager?](https://docs.microsoft.com/en-us/azure/azure-resource-manager/management/overview)
+* [On Prem To The Cloud: Lift and Shift](https://devblogs.microsoft.com/devops/on-prem-to-the-cloud-lift-and-shift-ep-2/)
+
 
 ## Exams
 * [Understanding Microsoft Azure certifications](https://techcommunity.microsoft.com/t5/microsoft-learn-blog/understanding-microsoft-azure-certifications/ba-p/1469358?BlogId=8&Id=375305)
