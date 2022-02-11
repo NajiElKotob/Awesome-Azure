@@ -69,8 +69,10 @@
 * [PluralSight (Free Videos)](https://go.microsoft.com/fwlink/?linkid=2012831) - pluralsight.com
 * [Microsoft Azure Fundamentals Certification Course (AZ-900) :tv:](https://www.youtube.com/watch?v=NKEFWyqJ5XA) - freeCodeCamp.org
 
-### Data
-* Types: (Structured, Semi-Structured (JSON, Parkque, ORC, Avro), Unstructured)
+### Data and Databases
+* Types
+    * Relational, Non-relational, Dimensional
+    * Structured, Semi-Structured (JSON, Parkque, ORC, Avro), Unstructured
 
 ### Concepts
 * [What is Azure Resource Manager?](https://docs.microsoft.com/en-us/azure/azure-resource-manager/management/overview)
