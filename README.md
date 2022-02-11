@@ -71,8 +71,10 @@
 
 ### Data and Databases
 * Types
-    * Relational, Non-relational, Dimensional
+    * Relational, Non-relational (NoSQL), Dimensional
+      * Non-relational: Key-value, document, columnar, graph  
     * Structured, Semi-Structured (JSON, Parkque, ORC, Avro), Unstructured
+ 
 
 ### Concepts
 * [What is Azure Resource Manager?](https://docs.microsoft.com/en-us/azure/azure-resource-manager/management/overview)
