@@ -75,6 +75,8 @@
       * Non-relational: Key-value, document, columnar, graph  
     * Structured, Semi-Structured (JSON, Parkque, ORC, Avro), Unstructured
  
+### Replication Strategies
+* LRS, ZRS, GRS, RA-GRS, GZRS, RA-GZRS
 
 ### Concepts
 * [What is Azure Resource Manager?](https://docs.microsoft.com/en-us/azure/azure-resource-manager/management/overview)
