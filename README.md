@@ -15,7 +15,7 @@
 * [What is Azure Compute Unit?](https://www.itprotoday.com/iaaspaas/what-azure-compute-unit) The Azure Compute Unit (ACU) is used to help understand the relative compute performance between different Azure series and size VMs. It is based on the A0 (extra small) having a value of 50. A VM with an ACU of 100 has twice the compute of a VM with an ACU of 50. A VM with an ACU of 200 would be twice that of a VM with an ACU of 100 and so on [more info](https://docs.microsoft.com/en-us/azure/virtual-machines/acu)
 
 ### *aaS
-* [SaaS - Software as a Service](https://azure.microsoft.com/en-us/overview/what-is-saas/)
+* [SaaS - Software as a Service](https://azure.microsoft.com/en-us/overview/what-is-saas/) aka FaaS (Function as a Service)
 * [PaaS - Platform as a Service](https://azure.microsoft.com/en-us/overview/what-is-paas/)
 * [IaaS - Infrastructure as a Service](https://azure.microsoft.com/en-us/overview/what-is-iaas/)
 * [CPaaS - Communication Platform as a Service](https://azure.microsoft.com/en-us/services/communication-services)
