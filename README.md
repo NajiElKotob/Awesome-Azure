@@ -120,7 +120,7 @@
 
 ### Azure 3rd-party Tools
 * [Azure Speed Test 2.0](https://azurespeedtest.azurewebsites.net/) - azurewebsites.net
-
+* [Azure SLA Board](https://azurecharts.com/sla) - azurecharts.com
 
 ### Azure Mobile App
 * [Azure mobile app](https://azure.microsoft.com/en-us/get-started/azure-portal/mobile-app/)
