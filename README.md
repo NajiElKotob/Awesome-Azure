@@ -118,6 +118,10 @@
   * [Azure PowerShell](https://docs.microsoft.com/en-us/powershell/azure/) - Azure PowerShell is a set of cmdlets for managing Azure resources directly from the PowerShell command line.
 * [REST API Browser](https://docs.microsoft.com/en-us/rest/api/?view=Azure) - Azure one-stop shop for REST APIs
 
+### Azure 3rd-party Tools
+* [Azure Speed Test 2.0](https://azurespeedtest.azurewebsites.net/) - azurewebsites.net
+
+
 ### Azure Mobile App
 * [Azure mobile app](https://azure.microsoft.com/en-us/get-started/azure-portal/mobile-app/)
 
