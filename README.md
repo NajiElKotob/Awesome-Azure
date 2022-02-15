@@ -22,8 +22,8 @@
 * BaaS - Backup as a Service
 * DaaS - Database as a Service
 * IDaaS - IDentity as a Service
-* XaaS  - Anything as a Service
 * [CaaS - Containers as a Service](https://searchitoperations.techtarget.com/definition/Containers-as-a-Service-CaaS)
+* XaaS  - Anything as a Service
 
 -----
 ## Quick References
