@@ -148,7 +148,8 @@ AI + Machine Learning | Analytics | Blockchain | Compute | Containers | Database
 `
 
 ### Guide 🆘
-* [Choose an Azure compute service for your application](https://docs.microsoft.com/en-us/azure/architecture/guide/technology-choices/compute-decision-tree)
+* [Choose an Azure compute service for your application](https://docs.microsoft.com/en-us/azure/architecture/guide/technology-choices/compute-decision-tree (Popular)]()
+* [Browse Azure products (Popular)](https://docs.microsoft.com/en-us/azure/?product=popular)
 
 ### Database
 * [How to choose the correct SQL Server destination on Azure (YouTube)](https://www.youtube.com/watch?v=PjfZPNWRtHg) - Microsoft SQL Server (May 2020)
