@@ -154,9 +154,12 @@ AI + Machine Learning | Analytics | Blockchain | Compute | Containers | Database
 ### Database
 * [How to choose the correct SQL Server destination on Azure (YouTube)](https://www.youtube.com/watch?v=PjfZPNWRtHg) - Microsoft SQL Server (May 2020)
 
+### Quantum
+* [Azure Quantum](https://docs.microsoft.com/en-us/azure/quantum/)
+
+
 ### Virtual Machines
 * [Sizes for virtual machines in Azure](https://docs.microsoft.com/en-us/azure/virtual-machines/sizes)
-
 
 ### Azure Open Datasets
 * [Azure Open Datasets](https://azure.microsoft.com/en-us/services/open-datasets/) - Easily access curated datasets and accelerate machine learning
