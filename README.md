@@ -31,7 +31,7 @@
 * [Azure updates](https://azure.microsoft.com/updates/) - Learn about important Azure product updates, roadmap, and announcements. Subscribe to notifications to stay informed.
 * [Which Azure region is right for me?](https://azure.microsoft.com/en-us/global-infrastructure/geographies/)
 * [Azure Marketplace](https://azuremarketplace.microsoft.com) - The Marketplace is the premier destination for all your software needs - certified and optimized to run on Azure.
-* [Azure status](https://status.azure.com/en-us/status) - Updated 32 seconds ago
+* [Azure status](https://status.azure.com/en-us/status) :star: - Refresh every 2 minutes
 * [Microsoft compliance offerings](https://docs.microsoft.com/en-us/compliance/regulatory/offering-home?view=o365-worldwide)
 
 
