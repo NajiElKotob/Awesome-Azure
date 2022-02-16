@@ -151,10 +151,16 @@ AI + Machine Learning | Analytics | Blockchain | Compute | Containers | Database
 * [Choose an Azure compute service for your application](https://docs.microsoft.com/en-us/azure/architecture/guide/technology-choices/compute-decision-tree (Popular)]()
 * [Browse Azure products (Popular)](https://docs.microsoft.com/en-us/azure/?product=popular)
 
-### Database
+### Data
+#### Database
 * [How to choose the correct SQL Server destination on Azure (YouTube)](https://www.youtube.com/watch?v=PjfZPNWRtHg) - Microsoft SQL Server (May 2020)
 
-### Quantum
+#### Azure Data Explorer (ADX)
+* [Azure Data Explorer](https://azure.microsoft.com/en-us/services/data-explorer/) - Fast and highly scalable data exploration service
+* [An overview of Azure Data Explorer (ADX) :tv:](https://www.youtube.com/watch?v=D_AJk2lAepw)
+
+
+#### Quantum
 * [Azure Quantum](https://docs.microsoft.com/en-us/azure/quantum/)
 
 
