@@ -96,7 +96,7 @@
 -----
 
 ## Azure Tools
-* [Query Editor](https://docs.microsoft.com/en-us/azure/azure-sql/database/connect-query-portal)
+* [Query Editor (Web-based Tool)](https://docs.microsoft.com/en-us/azure/azure-sql/database/connect-query-portal)
 * [Azure Data Studio](https://azure.microsoft.com/en-us/updates/azure-data-studio-is-now-available/) - A modern editor experience for managing data across multiple sources with fast intellisense, code snippets, source control integration, and an integrated terminal.
   * [SQL Server Import extension](https://docs.microsoft.com/en-us/sql/azure-data-studio/sql-server-import-extension) - Converts .txt and .csv files into a SQL table. 
   * [Generate scripts by using mssql-scripter](https://azure.microsoft.com/en-us/updates/mssqlscripter/)
