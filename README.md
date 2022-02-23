@@ -36,6 +36,7 @@
 
 
 ## e-books
+* [The Developer’s Guide to Azure](https://clouddamcdnprodep.azureedge.net/gdc/gdcMkJvlY/original)
 * [Azure for Architects](https://azure.microsoft.com/en-us/resources/azure-for-architects/) - Base your cloud solutions on strategy and architecture that meet the needs of your organization.
 * [The Developer’s Guide to Azure](https://azure.microsoft.com/en-us/campaigns/developer-guide/)
 * [Learn Azure in a Month of Lunches](https://azure.microsoft.com/en-us/resources/learn-azure-in-a-month-of-lunches/)
