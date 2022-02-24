@@ -163,6 +163,7 @@ AI + Machine Learning | Analytics | Blockchain | Compute | Containers | Database
 
 ### Cognitive Services
 * [AI Demos](http://aidemos.microsoft.com/)
+  * [LUIS](http://aidemos.microsoft.com/luis/demo) 
 
 #### Quantum
 * [Azure Quantum](https://docs.microsoft.com/en-us/azure/quantum/)
