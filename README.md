@@ -162,8 +162,11 @@ AI + Machine Learning | Analytics | Blockchain | Compute | Containers | Database
 * [An overview of Azure Data Explorer (ADX) :tv:](https://www.youtube.com/watch?v=D_AJk2lAepw)
 
 ### Cognitive Services
+#### AI Demos
 * [AI Demos](http://aidemos.microsoft.com/)
   * [LUIS](http://aidemos.microsoft.com/luis/demo) 
+#### Bots
+* [Azure Health Bot](https://www.microsoft.com/en-us/research/project/health-bot/)
 
 #### Quantum
 * [Azure Quantum](https://docs.microsoft.com/en-us/azure/quantum/)
