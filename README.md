@@ -161,6 +161,8 @@ AI + Machine Learning | Analytics | Blockchain | Compute | Containers | Database
 * [Azure Data Explorer](https://azure.microsoft.com/en-us/services/data-explorer/) - Fast and highly scalable data exploration service
 * [An overview of Azure Data Explorer (ADX) :tv:](https://www.youtube.com/watch?v=D_AJk2lAepw)
 
+### Cognitive Services
+* [AI Demos](http://aidemos.microsoft.com/)
 
 #### Quantum
 * [Azure Quantum](https://docs.microsoft.com/en-us/azure/quantum/)
