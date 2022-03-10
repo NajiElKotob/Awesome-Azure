@@ -174,6 +174,7 @@ AI + Machine Learning | Analytics | Blockchain | Compute | Containers | Database
 
 ### Virtual Machines
 * [Sizes for virtual machines in Azure](https://docs.microsoft.com/en-us/azure/virtual-machines/sizes)
+* [Delete a VM with dependencies](https://docs.microsoft.com/en-us/azure-stack/user/delete-vm?view=azs-2108&tabs=portal#delete-a-vm-with-dependencies)
 
 ### Azure Open Datasets
 * [Azure Open Datasets](https://azure.microsoft.com/en-us/services/open-datasets/) - Easily access curated datasets and accelerate machine learning
@@ -188,7 +189,6 @@ AI + Machine Learning | Analytics | Blockchain | Compute | Containers | Database
 
 ### AppService
 Quickly build, deploy, and scale web apps created with popular frameworks .NET, .NET Core, Node.js, Java, PHP, Ruby, or Python, in containers or running on any operating system. Meet rigorous, enterprise-grade performance, security, and compliance requirements by using the fully managed platform for your operational and monitoring tasks.
-
 * [Try Azure App Service](http://aka.ms/TryAppService) - Try Azure App Service for a limited time without a subscription, free of charge and commitment.
 * [Static Web Apps](https://azure.microsoft.com/en-us/services/app-service/static/) - Streamlined full-stack development from source code to global high availability
 
