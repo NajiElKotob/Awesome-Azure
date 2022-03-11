@@ -140,6 +140,9 @@
 * [Properly Shutdown Azure VM to Save Money](https://build5nines.com/properly-shutdown-azure-vm-to-save-money/) - Build5Nines
 * [Subscriptions, licenses, accounts, and tenants](https://docs.microsoft.com/en-us/office365/enterprise/subscriptions-licenses-accounts-and-tenants-for-microsoft-cloud-offerings)
 
+## Azure SLA
+* [SLA summary for Azure services](https://azure.microsoft.com/en-us/support/legal/sla/summary/)
+
 -----
 
 ## Azure Services
