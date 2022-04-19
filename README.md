@@ -69,6 +69,8 @@
 * [Microsoft Azure Training Library](https://cloudacademy.com/library/azure/) - Cloud Academy
 * [PluralSight (Free Videos)](https://go.microsoft.com/fwlink/?linkid=2012831) - pluralsight.com
 * [Microsoft Azure Fundamentals Certification Course (AZ-900) :tv:](https://www.youtube.com/watch?v=NKEFWyqJ5XA) - freeCodeCamp.org
+* [Try Microsoft Azure Pass](https://www.microsoftazurepass.com/) - microsoftazurepass.com | We're offering an Azure Pass, so for a limited time period, you can try Azure for free (No credit card required)
+
 
 ### Naming conventions
 * [Develop your naming and tagging strategy for Azure resources](https://docs.microsoft.com/en-us/azure/cloud-adoption-framework/ready/azure-best-practices/naming-and-tagging)
