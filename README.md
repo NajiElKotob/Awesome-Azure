@@ -65,11 +65,13 @@
         * [Optimize query performance in SQL Server](https://docs.microsoft.com/en-us/learn/paths/optimize-query-performance-sql-server/)
         * [Automate tasks in SQL Server](https://docs.microsoft.com/en-us/learn/paths/automate-tasks-sql-server/)
         * [Plan and implement a high availability and disaster recovery environment](https://docs.microsoft.com/en-us/learn/paths/plan-implement-high-availability-disaster-recovery-environment/)
-* [Azure Academy (YouTube)](https://www.youtube.com/channel/UC-MXgaFhsYU8PkqgKBdnusQ)
 * [Microsoft Azure Training Library](https://cloudacademy.com/library/azure/) - Cloud Academy
 * [PluralSight (Free Videos)](https://go.microsoft.com/fwlink/?linkid=2012831) - pluralsight.com
-* [Microsoft Azure Fundamentals Certification Course (AZ-900) :tv:](https://www.youtube.com/watch?v=NKEFWyqJ5XA) - freeCodeCamp.org
 * [Try Microsoft Azure Pass](https://www.microsoftazurepass.com/) - microsoftazurepass.com | We're offering an Azure Pass, so for a limited time period, you can try Azure for free (No credit card required)
+* [Azure Certification Resources](https://www.linkedin.com/pulse/azure-certification-resources-rae-bruenjes/) - Rae Bruenjes
+### YouTube 📺
+* [Microsoft Azure Fundamentals Certification Course (AZ-900) :tv:](https://www.youtube.com/watch?v=NKEFWyqJ5XA) - freeCodeCamp.org
+* [Azure Academy (YouTube)](https://www.youtube.com/channel/UC-MXgaFhsYU8PkqgKBdnusQ)
 
 
 ### Naming conventions
