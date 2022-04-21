@@ -72,7 +72,7 @@
 ### YouTube 📺
 * [Microsoft Azure Fundamentals Certification Course (AZ-900) :tv:](https://www.youtube.com/watch?v=NKEFWyqJ5XA) - freeCodeCamp.org
 * [Azure Academy (YouTube)](https://www.youtube.com/channel/UC-MXgaFhsYU8PkqgKBdnusQ)
-
+* [Adam Marczak - Azure for Everyone](https://www.youtube.com/c/Azure4Everyone/featured)
 
 ### Naming conventions
 * [Develop your naming and tagging strategy for Azure resources](https://docs.microsoft.com/en-us/azure/cloud-adoption-framework/ready/azure-best-practices/naming-and-tagging)
