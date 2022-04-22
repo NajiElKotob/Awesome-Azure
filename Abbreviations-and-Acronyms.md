@@ -12,3 +12,7 @@
 * Redundancy determines how many copies of your data are maintained at one time, and in what locations.
 * Transactions refer to all read and write operations to Azure Storage.
 * Data egress refers to any data transferred out of an Azure region. When the data in your storage account is accessed by an application that isn’t running in the same region, you're charged for data egress. 
+
+
+# Terms and definitions
+* [Cloud computing terms](https://azure.microsoft.com/en-us/overview/cloud-computing-dictionary/) - azure.microsoft.com
