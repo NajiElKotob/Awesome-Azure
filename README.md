@@ -157,7 +157,7 @@ AI + Machine Learning | Analytics | Blockchain | Compute | Containers | Database
 `
 
 ### Guide 🆘
-* [Choose an Azure compute service for your application](https://docs.microsoft.com/en-us/azure/architecture/guide/technology-choices/compute-decision-tree (Popular)]()
+* [Choose an Azure compute service for your application](https://docs.microsoft.com/en-us/azure/architecture/guide/technology-choices/compute-decision-tree (Popular))
 * [Browse Azure products (Popular)](https://docs.microsoft.com/en-us/azure/?product=popular)
 
 ### Data
@@ -214,6 +214,11 @@ Quickly build, deploy, and scale web apps created with popular frameworks .NET, 
 
 ### Azure Percept (Sense. Know. Act.)
 * [Azure Percept](https://azure.microsoft.com/en-gb/services/azure-percept/)
+
+----
+## Benchmarking
+* [Google Trends | Azure vs Google Cloud vs AWS](https://trends.google.com/trends/explore?date=all&geo=LB&q=%2Fm%2F04y7lrx,Google%20Cloud,AWS)
+
 
 ----
 Azure | Constantly growing and constantly improving
