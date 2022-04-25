@@ -199,6 +199,8 @@ Quickly build, deploy, and scale web apps created with popular frameworks .NET, 
 * [Try Azure App Service](http://aka.ms/TryAppService) - Try Azure App Service for a limited time without a subscription, free of charge and commitment.
 * [Static Web Apps](https://azure.microsoft.com/en-us/services/app-service/static/) - Streamlined full-stack development from source code to global high availability
 
+### IoT
+* [Connect Raspberry Pi online simulator to Azure IoT Hub (Node.js)](https://docs.microsoft.com/en-us/azure/iot-hub/iot-hub-raspberry-pi-web-simulator-get-started)
 
 ### DevOps
 * [Choose a process](https://docs.microsoft.com/en-us/azure/devops/boards/work-items/guidance/choose-process?view=azure-devops&tabs=basic-process) - Basic, Agile, Scrum, and CMMI
