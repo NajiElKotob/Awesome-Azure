@@ -123,6 +123,8 @@
   * [Azure PowerShell](https://docs.microsoft.com/en-us/powershell/azure/) - Azure PowerShell is a set of cmdlets for managing Azure resources directly from the PowerShell command line.
 * [REST API Browser](https://docs.microsoft.com/en-us/rest/api/?view=Azure) - Azure one-stop shop for REST APIs
 * [Azure Cosmos DB Capacity Calculator](https://cosmos.azure.com/capacitycalculator/)
+* [Find the Azure geography that meets your needs](https://azure.microsoft.com/en-gb/global-infrastructure/geographies/#overview)
+
 
 ### Azure 3rd-party Tools
 * [Azure Speed Test 2.0](https://azurespeedtest.azurewebsites.net/) - azurewebsites.net
