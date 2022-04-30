@@ -16,3 +16,4 @@
 
 # Terms and definitions
 * [Cloud computing terms](https://azure.microsoft.com/en-us/overview/cloud-computing-dictionary/) - azure.microsoft.com
+* [Terminology](https://docs.microsoft.com/en-us/azure/availability-zones/glossary) - docs.microsoft.com
