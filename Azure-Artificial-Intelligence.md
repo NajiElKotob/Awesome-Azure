@@ -6,7 +6,10 @@
 
 ### Vision
 #### Computer Vision
-`An AI service that analyzes content in images and video`
+`An AI service that analyzes content in images and video` [learn more](https://docs.microsoft.com/en-us/azure/cognitive-services/computer-vision/)
+* Optical character recognition
+* Image Analysis
+* Spatial Analysis
 
 #### Custom Vision
 
