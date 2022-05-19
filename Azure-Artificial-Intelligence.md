@@ -5,6 +5,9 @@
 ## Cognitive Services
 
 ### Vision
+#### Computer Vision
+`An AI service that analyzes content in images and video`
+
 #### Custom Vision
 
 
