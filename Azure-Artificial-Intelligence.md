@@ -33,6 +33,10 @@
 * [Bike Rentals](https://aka.ms/bike-rentals) - aka.ms/bike-rentals
 
 
-------
+-----
+## Demos
+* [Hands on with AI](https://aidemos.microsoft.com/) - Dive in to interactive demos that showcase a selection of the capabilities of the Microsoft AI platform.
+
+-----
 ## URLs
 * [Azure Machine Learning studio](https://ml.azure.com/) - ml.azure.com
