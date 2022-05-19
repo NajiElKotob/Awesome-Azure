@@ -14,6 +14,8 @@
 * Spatial Analysis
 
 
+#### Cases
+* [GE Research - Computer Vision](https://www.ge.com/research/technology-domains/artificial-intelligence/computer-vision)
 
 -----
 
