@@ -31,3 +31,8 @@
 
 ## Datasets
 * [Bike Rentals](https://aka.ms/bike-rentals) - aka.ms/bike-rentals
+
+
+------
+## URLs
+* [Azure Machine Learning studio](https://ml.azure.com/) - ml.azure.com
