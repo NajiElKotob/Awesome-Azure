@@ -4,7 +4,16 @@
 
 ## Cognitive Services
 
-### NLP
+### Vision
 
-#### Cases
+### Speech
+
+### Language
+#### NLP
+
+##### Cases
 * [Starship Commander: Arcade Story Trailer :tv:](https://youtu.be/Oq3dnkY4XWg)
+
+### Decision
+
+### Web Search
