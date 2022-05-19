@@ -22,8 +22,10 @@
 -----
 
 ### Language
-#### LUIS
-#### NLP
+
+#### Language Understanding (LUIS)
+#### QnA Maker
+#### Translator
 
 ##### Cases
 * [Starship Commander: Arcade Story Trailer :tv:](https://youtu.be/Oq3dnkY4XWg)
