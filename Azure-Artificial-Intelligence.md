@@ -5,17 +5,21 @@
 ## Cognitive Services
 
 ### Vision
+#### Custom Vision
 #### Computer Vision
 `An AI service that analyzes content in images and video` [learn more](https://docs.microsoft.com/en-us/azure/cognitive-services/computer-vision/)
 * Optical character recognition
 * Image Analysis
 * Spatial Analysis
 
-#### Custom Vision
 
+
+-----
 
 ### Speech
 #### Speech Studio
+
+-----
 
 ### Language
 #### LUIS
@@ -24,9 +28,12 @@
 ##### Cases
 * [Starship Commander: Arcade Story Trailer :tv:](https://youtu.be/Oq3dnkY4XWg)
 
+-----
+
 ### Decision
 #### Content Moderator
 
+-----
 ### Web Search
 #### Bing Custom Search
 
