@@ -5,6 +5,7 @@
 ## Cognitive Services
 
 ### Vision
+`Recognize, identify, caption, index, and moderate your pictures, videos, and digital ink content.`
 #### Custom Vision
 #### Computer Vision
 `An AI service that analyzes content in images and video` [learn more](https://docs.microsoft.com/en-us/azure/cognitive-services/computer-vision/)
@@ -17,12 +18,13 @@
 -----
 
 ### Speech
+`Convert speech into text and text into natural-sounding speech. Translate from one language to another and enable speaker verification and recognition.`
 #### Speech Studio
 
 -----
 
 ### Language
-
+`Allow your apps to process natural language with pre-built scripts, evaluate sentiment and learn how to recognize what users want.`
 #### Language Understanding (LUIS)
 #### QnA Maker
 #### Translator
@@ -33,7 +35,10 @@
 -----
 
 ### Decision
+`Build apps that surface recommendations for informed and efficient decision-making.`
+#### Anomaly Detector
 #### Content Moderator
+#### Personalizer
 
 -----
 ### Web Search
