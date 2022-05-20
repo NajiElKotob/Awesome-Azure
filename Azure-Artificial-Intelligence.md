@@ -1,6 +1,12 @@
 # Azure Artificial Intelligence
 
 ## Responsible AI
+* Fairness - AI systems should treat all people fairly
+* Reliability & Safety - AI systems should perform reliably and safely
+* Privacy & Security - AI systems should be secure and respect privacy
+* Inclusiveness - AI systems should empower everyone and engage people
+* Transparency - AI systems should be understandable
+* Accountability - People should be accountable for AI systems
 
 -----
 ## Cognitive Services
