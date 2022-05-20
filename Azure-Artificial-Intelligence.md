@@ -15,6 +15,9 @@
 * Spatial Analysis
 
 
+#### Learn
+* [Explore computer vision](https://aka.ms/explore-computer-vision)
+
 #### Cases
 * [GE Research - Computer Vision](https://www.ge.com/research/technology-domains/artificial-intelligence/computer-vision)
 
