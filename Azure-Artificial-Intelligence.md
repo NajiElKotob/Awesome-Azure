@@ -83,3 +83,12 @@
 -----
 ## URLs
 * [Azure Machine Learning studio](https://ml.azure.com/) - ml.azure.com
+
+-----
+
+## Certifications
+
+-----
+## Articles
+* [What is the Difference Between Test and Validation Datasets?](https://machinelearningmastery.com/difference-test-validation-datasets/) - machinelearningmastery.com
+
