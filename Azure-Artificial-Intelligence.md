@@ -51,6 +51,8 @@
 ### Web Search
 #### Bing Custom Search
 
+### Generate Thumbnail
+
 -----
 
 ## Applied AI Services
