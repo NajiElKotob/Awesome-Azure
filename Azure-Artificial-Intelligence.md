@@ -44,6 +44,10 @@
 #### Personalizer
 
 -----
+### OpenAI
+`Dynamic language models to power your apps`
+
+-----
 ### Web Search
 #### Bing Custom Search
 
