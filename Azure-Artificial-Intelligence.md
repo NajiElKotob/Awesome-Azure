@@ -91,6 +91,7 @@
 
 -----
 ## URLs
+* [Microsoft AI](https://www.microsoft.com/ai) - microsoft.com
 * [Azure Machine Learning studio](https://ml.azure.com/) - ml.azure.com
 
 -----
