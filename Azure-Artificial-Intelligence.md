@@ -19,10 +19,20 @@
 #### Custom Vision
 #### Computer Vision
 `Computer vision is an area of artificial intelligence (AI) in which software systems are designed to perceive the world visually, though cameras, images, and video.` [learn more](https://docs.microsoft.com/en-us/azure/cognitive-services/computer-vision/)
+* Describing an image
+* Tagging visual features
+* Detecting objects
+* Detecting brands
+* Detecting faces
+* Categorizing an image
+* Detecting domain-specific content (Celebrities, Landmarks)
 * Optical character recognition
+* Detect image types
+* Detect image color schemes
 * Image Analysis
 * Spatial Analysis
-
+* Generate Thumbnail
+* Moderate content 
 
 #### Learn
 * [Explore computer vision](https://aka.ms/explore-computer-vision)
@@ -63,7 +73,6 @@
 ### Web Search
 #### Bing Custom Search
 
-### Generate Thumbnail
 
 -----
 
