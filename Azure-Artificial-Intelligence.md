@@ -59,6 +59,10 @@
 ### Azure Bot Service
 
 -----
+
+## Azure Machine Learning
+
+-----
 ## Datasets
 * [Bike Rentals](https://aka.ms/bike-rentals) - aka.ms/bike-rentals
 
