@@ -100,4 +100,4 @@
 -----
 ## Articles
 * [What is the Difference Between Test and Validation Datasets?](https://machinelearningmastery.com/difference-test-validation-datasets/) - machinelearningmastery.com
-
+* [Evaluate your ML.NET model with metrics](https://docs.microsoft.com/en-us/dotnet/machine-learning/resources/metrics)
