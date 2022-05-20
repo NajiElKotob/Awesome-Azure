@@ -18,7 +18,7 @@
 #### Learn
 * [Explore computer vision](https://aka.ms/explore-computer-vision)
 
-#### Cases
+#### AI Experiments and Cases
 * [GE Research - Computer Vision](https://www.ge.com/research/technology-domains/artificial-intelligence/computer-vision)
 
 -----
