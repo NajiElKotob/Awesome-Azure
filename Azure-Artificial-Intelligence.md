@@ -8,6 +8,9 @@
 * Transparency - AI systems should be understandable
 * Accountability - People should be accountable for AI systems
 
+### Learn more
+* [Microsoft responsible AI principles](https://www.microsoft.com/en-us/ai/our-approach)
+
 -----
 ## Cognitive Services
 
