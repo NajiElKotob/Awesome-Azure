@@ -2,6 +2,7 @@
 
 ## Responsible AI
 
+-----
 ## Cognitive Services
 
 ### Vision
@@ -48,6 +49,16 @@
 
 -----
 
+## Applied AI Services
+`A family of AI services that accelerate development of solutions for common business processes`
+### Azure Form Recognizer
+### Azure Metrics Advisor
+### Azure Immersive Reader
+### Azure Cognitive Search
+### Azure Video Indexer
+### Azure Bot Service
+
+-----
 ## Datasets
 * [Bike Rentals](https://aka.ms/bike-rentals) - aka.ms/bike-rentals
 
