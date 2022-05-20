@@ -9,7 +9,7 @@
 `Recognize, identify, caption, index, and moderate your pictures, videos, and digital ink content.`
 #### Custom Vision
 #### Computer Vision
-`An AI service that analyzes content in images and video` [learn more](https://docs.microsoft.com/en-us/azure/cognitive-services/computer-vision/)
+`Computer vision is an area of artificial intelligence (AI) in which software systems are designed to perceive the world visually, though cameras, images, and video.` [learn more](https://docs.microsoft.com/en-us/azure/cognitive-services/computer-vision/)
 * Optical character recognition
 * Image Analysis
 * Spatial Analysis
