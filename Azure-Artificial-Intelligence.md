@@ -100,6 +100,7 @@
 ### Azure Immersive Reader
 ### Azure Cognitive Search
 ### Azure Video Indexer
+* [Azure Video Indexer](https://vi.microsoft.com/en-us) - vi.microsoft.com | Extract rich insights from video and audio files using a rich set of machine learning algorithms.
 ### Azure Bot Service
 
 -----
