@@ -87,6 +87,7 @@
 #### Language Understanding (LUIS)
 * [Language Understanding (LUIS) docs](https://docs.microsoft.com/en-us/azure/cognitive-services/LUIS/)
 #### QnA Maker
+* [Add Chit-chat to a knowledge base](https://docs.microsoft.com/en-us/azure/cognitive-services/qnamaker/how-to/chit-chat-knowledge-base)
 #### Translator
 * [Translator](https://azure.microsoft.com/en-us/services/cognitive-services/translator/) - An AI service for real-time document and text translation
 
