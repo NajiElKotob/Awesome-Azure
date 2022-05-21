@@ -22,7 +22,7 @@
 
 ##### Learn
 * [Build an object detector with the Custom Vision website (Quickstart)](https://docs.microsoft.com/en-us/azure/cognitive-services/custom-vision-service/get-started-build-detector)
-
+* [Use Custom Vision with an IoT device to report visual states (Tutorial)](https://docs.microsoft.com/en-us/azure/cognitive-services/Custom-Vision-Service/iot-visual-alerts-tutorial)
 
 #### Computer Vision
 `Computer vision is an area of artificial intelligence (AI) in which software systems are designed to perceive the world visually, though cameras, images, and video.` [learn more](https://docs.microsoft.com/en-us/azure/cognitive-services/computer-vision/)
