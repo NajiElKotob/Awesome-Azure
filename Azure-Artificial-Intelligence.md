@@ -62,6 +62,10 @@
 
 ### Speech
 `Convert speech into text and text into natural-sounding speech. Translate from one language to another and enable speaker verification and recognition.`
+
+#### Speech-to-Text
+* [Speech-to-Text](https://azure.microsoft.com/en-gb/services/cognitive-services/speech-to-text/) - A Speech service feature that accurately transcribes spoken audio to text
+
 #### Speech Studio
 
 -----
