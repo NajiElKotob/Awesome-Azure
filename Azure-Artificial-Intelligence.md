@@ -79,6 +79,8 @@
 #### Language Understanding (LUIS)
 #### QnA Maker
 #### Translator
+* [Translator](https://azure.microsoft.com/en-us/services/cognitive-services/translator/) - An AI service for real-time document and text translation
+
 
 ##### Cases
 * [Starship Commander: Arcade Story Trailer :tv:](https://youtu.be/Oq3dnkY4XWg)
