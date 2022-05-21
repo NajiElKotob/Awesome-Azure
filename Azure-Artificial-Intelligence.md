@@ -85,6 +85,7 @@
 ### Language
 `Allow your apps to process natural language with pre-built scripts, evaluate sentiment and learn how to recognize what users want.`
 #### Language Understanding (LUIS)
+* [Language Understanding (LUIS) docs](https://docs.microsoft.com/en-us/azure/cognitive-services/LUIS/)
 #### QnA Maker
 #### Translator
 * [Translator](https://azure.microsoft.com/en-us/services/cognitive-services/translator/) - An AI service for real-time document and text translation
