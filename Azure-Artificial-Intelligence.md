@@ -113,9 +113,15 @@
 
 ### Decision
 `Build apps that surface recommendations for informed and efficient decision-making.`
+
 #### Anomaly Detector
+`Identify potential problems early on.`
+
 #### Content Moderator
+`Detect potentially offensive or unwanted content.`
+
 #### Personalizer
+`Create rich, personalized experiences for every user.`
 
 -----
 ### OpenAI
