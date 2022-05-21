@@ -66,6 +66,8 @@
 #### Speech-to-Text
 * [Speech-to-Text](https://azure.microsoft.com/en-gb/services/cognitive-services/speech-to-text/) - A Speech service feature that accurately transcribes spoken audio to text
 * [Text to speech](https://azure.microsoft.com/en-us/services/cognitive-services/text-to-speech/) - A Speech service feature that converts text to lifelike speech
+* [Speech translation](https://azure.microsoft.com/en-us/services/cognitive-services/speech-translation) - Easily integrate real-time speech translation to your app
+
 
 
 #### Speech Studio
