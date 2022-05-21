@@ -36,6 +36,7 @@
 
 #### Learn
 * [Explore computer vision](https://aka.ms/explore-computer-vision)
+* [Build an object detector with the Custom Vision website (Quickstart)](https://docs.microsoft.com/en-us/azure/cognitive-services/custom-vision-service/get-started-build-detector)
 
 #### AI Experiments and Cases
 * [GE Research - Computer Vision](https://www.ge.com/research/technology-domains/artificial-intelligence/computer-vision)
