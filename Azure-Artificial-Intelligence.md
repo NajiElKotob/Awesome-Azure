@@ -17,6 +17,11 @@
 ### Vision
 `Recognize, identify, caption, index, and moderate your pictures, videos, and digital ink content.`
 #### Custom Vision
+
+##### Learn
+* [Build an object detector with the Custom Vision website (Quickstart)](https://docs.microsoft.com/en-us/azure/cognitive-services/custom-vision-service/get-started-build-detector)
+
+
 #### Computer Vision
 `Computer vision is an area of artificial intelligence (AI) in which software systems are designed to perceive the world visually, though cameras, images, and video.` [learn more](https://docs.microsoft.com/en-us/azure/cognitive-services/computer-vision/)
 * Describing an image
@@ -26,7 +31,6 @@
 * Detecting faces
 * Categorizing an image
 * Detecting domain-specific content (Celebrities, Landmarks)
-* Optical character recognition
 * Detect image types
 * Detect image color schemes
 * Image Analysis
@@ -34,18 +38,21 @@
 * Generate Thumbnail
 * Moderate content 
 
-### Face
+##### Face
 `The Azure Face service provides AI algorithms that detect, recognize, and analyze human faces in images.`
 * Face recognition
 * Face detection and analysis
 * Face rectangles
 
+##### Optical character recognition (OCR)
+* [What is Optical character recognition?](https://docs.microsoft.com/en-us/azure/cognitive-services/computer-vision/overview-ocr)
 
-#### Learn
+
+##### Learn
 * [Explore computer vision](https://aka.ms/explore-computer-vision)
-* [Build an object detector with the Custom Vision website (Quickstart)](https://docs.microsoft.com/en-us/azure/cognitive-services/custom-vision-service/get-started-build-detector)
 
-#### AI Experiments and Cases
+
+##### AI Experiments and Cases
 * [GE Research - Computer Vision](https://www.ge.com/research/technology-domains/artificial-intelligence/computer-vision)
 
 -----
