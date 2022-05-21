@@ -90,6 +90,11 @@
 
 ## Azure Machine Learning
 
+
+### Learn
+* [Train a no-code regression model (Tutorial)](https://docs.microsoft.com/en-us/azure/machine-learning/tutorial-designer-automobile-price-train-score)
+
+
 -----
 ## Datasets
 * [Bike Rentals](https://aka.ms/bike-rentals) - aka.ms/bike-rentals
