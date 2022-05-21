@@ -166,7 +166,7 @@
 * [Image-to-Image Demo](https://affinelayer.com/pixsrv/)
 * [FastPhotoStyle (NVIDIA)](https://github.com/NVIDIA/FastPhotoStyle)
 * [This X Does Not Exist](https://thisxdoesnotexist.com/)
-
+* [AI Duet](https://experiments.withgoogle.com/ai/ai-duet/view/) 🎹
 
 -----
 ## URLs
