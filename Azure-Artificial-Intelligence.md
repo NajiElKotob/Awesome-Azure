@@ -34,6 +34,13 @@
 * Generate Thumbnail
 * Moderate content 
 
+### Face
+`The Azure Face service provides AI algorithms that detect, recognize, and analyze human faces in images.`
+* Face recognition
+* Face detection and analysis
+* Face rectangles
+
+
 #### Learn
 * [Explore computer vision](https://aka.ms/explore-computer-vision)
 * [Build an object detector with the Custom Vision website (Quickstart)](https://docs.microsoft.com/en-us/azure/cognitive-services/custom-vision-service/get-started-build-detector)
