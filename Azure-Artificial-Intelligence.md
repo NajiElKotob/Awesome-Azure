@@ -17,6 +17,8 @@
 ### Vision
 `Recognize, identify, caption, index, and moderate your pictures, videos, and digital ink content.`
 #### Custom Vision
+* [What is Custom Vision?](https://docs.microsoft.com/en-us/azure/cognitive-services/Custom-Vision-Service/overview)
+
 
 ##### Learn
 * [Build an object detector with the Custom Vision website (Quickstart)](https://docs.microsoft.com/en-us/azure/cognitive-services/custom-vision-service/get-started-build-detector)
