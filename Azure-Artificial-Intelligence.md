@@ -164,6 +164,8 @@
 * [Hands on with AI](https://aidemos.microsoft.com/) - Dive in to interactive demos that showcase a selection of the capabilities of the Microsoft AI platform.
 * [AttnGAN](https://experiments.runwayml.com/generative_engine/) - AttnGan is an algorithm that visualizes text input. 
 * [Image-to-Image Demo](https://affinelayer.com/pixsrv/)
+* [FastPhotoStyle (NVIDIA)](https://github.com/NVIDIA/FastPhotoStyle)
+
 
 -----
 ## URLs
