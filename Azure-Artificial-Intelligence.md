@@ -64,10 +64,18 @@
 `Convert speech into text and text into natural-sounding speech. Translate from one language to another and enable speaker verification and recognition.`
 
 #### Speech-to-Text
+`Transcribe audible speech into readable, searchable text.`
 * [Speech-to-Text (Speech Recognition)](https://azure.microsoft.com/en-gb/services/cognitive-services/speech-to-text/) - A Speech service feature that accurately transcribes spoken audio to text
+#### Text-to-speech
+`Convert text to lifelike speech for more natural interfaces.`
 * [Text to speech (Speech Synthesis)](https://azure.microsoft.com/en-us/services/cognitive-services/text-to-speech/) - A Speech service feature that converts text to lifelike speech
+
+#### Speech translation
+`Integrate real-time speech translation into your apps.`
 * [Speech translation](https://azure.microsoft.com/en-us/services/cognitive-services/speech-translation) - Easily integrate real-time speech translation to your app
 
+#### Speaker recognition
+`Identify and verify the people speaking based on audio`
 
 
 #### Speech Studio
