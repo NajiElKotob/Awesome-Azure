@@ -91,6 +91,20 @@
 #### Translator
 * [Translator](https://azure.microsoft.com/en-us/services/cognitive-services/translator/) - An AI service for real-time document and text translation
 
+#### Entity recognition
+`Identify commonly-used and domain-specific terms.`
+
+#### Sentiment analysis
+`Automatically detect sentiments and opinions from text.`
+
+#### Question Answering
+`Distill information into easy-to-navigate questions and answers.`
+
+#### Conversational language understanding
+`Enable your apps to interact with users through natural language.`
+
+#### Translator
+`Translate more than 100 languages and dialects.`
 
 ##### AI Experiments and Cases
 * [Starship Commander: Arcade Story Trailer :tv:](https://youtu.be/Oq3dnkY4XWg)
