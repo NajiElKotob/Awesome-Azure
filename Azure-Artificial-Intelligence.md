@@ -132,7 +132,7 @@
 
 ### Learn
 * [Train a no-code regression model (Tutorial)](https://docs.microsoft.com/en-us/azure/machine-learning/tutorial-designer-automobile-price-train-score)
-
+* [Dev Intro to Data Science](https://docs.microsoft.com/en-us/shows/dev-intro-to-data-science/?source=docs)
 
 -----
 ## Datasets
