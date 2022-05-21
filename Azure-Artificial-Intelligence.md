@@ -90,7 +90,7 @@
 * [Translator](https://azure.microsoft.com/en-us/services/cognitive-services/translator/) - An AI service for real-time document and text translation
 
 
-##### Cases
+##### AI Experiments and Cases
 * [Starship Commander: Arcade Story Trailer :tv:](https://youtu.be/Oq3dnkY4XWg)
 
 -----
