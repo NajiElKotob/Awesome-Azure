@@ -27,7 +27,6 @@
 #### Computer Vision
 `Computer vision is an area of artificial intelligence (AI) in which software systems are designed to perceive the world visually, though cameras, images, and video.` [learn more](https://docs.microsoft.com/en-us/azure/cognitive-services/computer-vision/)
 * Describing an image
-* Tagging visual features
 * Detecting objects
 * Detecting brands
 * Detecting faces
@@ -49,6 +48,8 @@
 ##### Optical character recognition (OCR)
 * [What is Optical character recognition?](https://docs.microsoft.com/en-us/azure/cognitive-services/computer-vision/overview-ocr)
 
+##### Content Tags
+* [Apply content tags to images](https://docs.microsoft.com/en-us/azure/cognitive-services/computer-vision/concept-tagging-images)
 
 ##### Learn
 * [Explore computer vision](https://aka.ms/explore-computer-vision)
