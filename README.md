@@ -173,6 +173,8 @@ AI + Machine Learning | Analytics | Blockchain | Compute | Containers | Database
 
 #### Azure Purview
 * [How to get started with Azure Purview 📺 ~4min](https://www.youtube.com/watch?v=Kteh9cXkHIE)
+* [System classifications in Microsoft Purview](https://learn.microsoft.com/en-us/azure/purview/supported-classifications) - learn.microsoft.com
+
 
 ### Cognitive Services
 #### AI Demos
