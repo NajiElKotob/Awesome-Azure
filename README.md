@@ -194,6 +194,7 @@ AI + Machine Learning | Analytics | Blockchain | Compute | Containers | Database
 * [Azure Open Datasets](https://azure.microsoft.com/en-us/services/open-datasets/) - Easily access curated datasets and accelerate machine learning
 
 ### Azure Synapse Analytics
+`Azure Synapse Analytics is a limitless analytics service that brings together data integration, enterprise data warehousing, and big data analytics.`
 * [Azure Synapse Analytics (Docs)](https://docs.microsoft.com/en-us/azure/synapse-analytics/)
 * [Get Started with Azure Synapse Analytics (Quickstarts)](https://docs.microsoft.com/en-us/azure/synapse-analytics/get-started)
 
