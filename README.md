@@ -177,6 +177,7 @@ AI + Machine Learning | Analytics | Blockchain | Compute | Containers | Database
 * [How to get started with Azure Purview 📺 ~4min](https://www.youtube.com/watch?v=Kteh9cXkHIE)
 * [System classifications in Microsoft Purview](https://learn.microsoft.com/en-us/azure/purview/supported-classifications) - learn.microsoft.com
 * [Azure Purview Quickstart 📺](https://www.youtube.com/watch?v=6JDINLykFnA&list=PLGdtUVeal1ELbPdRqNyNBb7-tR83Dp02Y) - Wolfgang Strasser
+* [Enable unified data governance with Azure Purview | Azure Friday 📺](https://www.youtube.com/watch?v=W2bsj3ULw0Y) - Gaurav Malhotra and Scott Hanselman 
 
 ### Cognitive Services
 #### AI Demos
