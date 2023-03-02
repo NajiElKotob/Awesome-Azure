@@ -140,6 +140,8 @@
 * [Use the Azurite emulator for local Azure Storage development](https://docs.microsoft.com/en-us/azure/storage/common/storage-use-azurite?tabs=visual-studio)
 * [Azure Cosmos DB Emulator for local development and testing](https://docs.microsoft.com/en-us/azure/cosmos-db/local-emulator?tabs=ssl-netstd21)
 
+### Azure Architectures
+* [Browse Azure Architectures](https://learn.microsoft.com/en-us/azure/architecture/browse/)
 -----
 
 ## Azure Pricing
