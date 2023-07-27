@@ -6,3 +6,7 @@
 
 ## YouTube 📺
 * [Azure Data Factory Introduction | Tutorial for Beginners](https://www.youtube.com/playlist?list=PLGjZwEtPN7j8b9dPA0HrtJDptOB69B506) - Adam Marczak
+
+
+## Architecture
+* [Data Factory architecture](https://learn.microsoft.com/en-us/azure/data-factory/media/introduction/data-factory-visual-guide.png) - learn.microsoft.com
