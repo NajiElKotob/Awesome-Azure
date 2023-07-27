@@ -10,3 +10,4 @@
 
 ## Architecture
 * [Data Factory architecture](https://learn.microsoft.com/en-us/azure/data-factory/media/introduction/data-factory-visual-guide.png) - learn.microsoft.com
+* [Browse Azure Architectures](https://learn.microsoft.com/en-us/azure/architecture/browse/?terms=data%20factory)
