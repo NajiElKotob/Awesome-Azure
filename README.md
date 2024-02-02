@@ -220,6 +220,9 @@ Quickly build, deploy, and scale web apps created with popular frameworks .NET, 
 * [DevOpsGroup Tutorials](https://www.devopsgroup.com/insights/resources/tutorials/) - devopsgroup.com
 * [Introduction to Azure DevOps (YouTube)](https://www.youtube.com/watch?v=ncSXpcPznfQ) (Pragmatic Works, June 2020)
 
+### Azure AI Studio
+* [Azure AI Studio](https://ai.azure.com/) - ai.azure.com
+
 ### Azure Maps
 * [Azure Maps](https://docs.microsoft.com/en-us/azure/azure-maps/about-azure-maps) - Azure Maps is a collection of geospatial services that use fresh mapping data to provide geographic context to web and mobile applications.
 
@@ -236,3 +239,4 @@ Quickly build, deploy, and scale web apps created with popular frameworks .NET, 
 
 ----
 Azure | Constantly growing and constantly improving
+ 
