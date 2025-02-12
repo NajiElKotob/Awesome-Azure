@@ -182,6 +182,7 @@ AI + Machine Learning | Analytics | Blockchain | Compute | Containers | Database
 
 ### Cognitive Services
 #### AI Demos
+* [Azure AI Services](https://ai.azure.com/explore/aiservices)
 * [AI Demos](http://aidemos.microsoft.com/)
   * [LUIS](http://aidemos.microsoft.com/luis/demo) 
 #### Bots
